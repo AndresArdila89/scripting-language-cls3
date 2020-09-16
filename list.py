@@ -42,3 +42,8 @@ print(L4)
 ###print(L4)
 
 print(sort(L4)) ##3this way the object does not get affected by the method sort()
+
+L6 = [100, 9,20,1]
+print(min(L6))
+print(max(L6))
+print(sum(L6))
